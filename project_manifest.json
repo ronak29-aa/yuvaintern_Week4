@@ -1,0 +1,18 @@
+{
+  "dataset": "Iris",
+  "records": 150,
+  "models": [
+    "Logistic Regression",
+    "Decision Tree"
+  ],
+  "test_accuracy": {
+    "Logistic Regression": 0.9333333333333332,
+    "Decision Tree": 0.9333333333333332
+  },
+  "cv_mean_accuracy": {
+    "Logistic Regression": 0.9533333333333334,
+    "Decision Tree": 0.9533333333333336
+  },
+  "visualizations": 6,
+  "report": "Week4_Machine_Learning_Model_Development_Report.docx"
+}
